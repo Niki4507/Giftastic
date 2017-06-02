@@ -1,0 +1,24 @@
+body{
+    color: black;
+    background-color: #f2f2f2;
+}
+
+img { 
+    height: 175px;
+    width: 175px;
+}
+.btn {
+    margin: 4px;
+    background-color: #0abab5;
+    border-color: #fff;
+}
+.gifDiv{
+    float: left;
+    margin: 4px;
+}
+.container {
+	background-color:#f2f2f2;
+	opacity: 0.8;
+	padding: 20px;
+}
+
